@@ -1,0 +1,39 @@
+.icons1{
+    padding: 7px 0px 3px 15px;
+    display: flex;
+    cursor: pointer;
+}
+
+.icons1 .icn{
+    padding-right: 7px;
+}
+
+.icons1 p{
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.tagP{
+    padding-right: 50px;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+
+.icon2{
+    display: flex;
+    padding-left: 5px;
+    padding-top: 2px;
+    cursor: pointer;
+}
+
+.vl{
+    
+    border-left: 1px solid lightgrey;
+    height: 15px;
+    padding: 0 0 5px 5px;
+}
+
+hr{
+    width: 144%;
+}
